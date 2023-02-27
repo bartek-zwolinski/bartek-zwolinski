@@ -10,6 +10,8 @@
 
 📧 How to reach me: bartek.zwolinski99@gmail.com
 
+LinkedIn: www.linkedin.com/in/bartlomiej-zwolinski
+
 ## My values
 
 :open_hands: **Teamwork** I love to wourk with people <br/>
@@ -28,5 +30,5 @@ In my free time you can find me in front of my desk💻 , i like to learn a lot.
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bartekzwolinski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bartek-zwolinski&layout=compactt)](https://github.com/anuraghazra/github-readme-stats)
 
